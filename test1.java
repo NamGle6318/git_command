@@ -10,5 +10,6 @@ public class test1 {
         System.out.println("app의 2번 정보 출력");
         System.out.println("hi");
         System.out.println("hello");
+        System.out.println("hello");
     }
 }
