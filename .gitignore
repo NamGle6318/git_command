@@ -1,5 +1,5 @@
 # ignore to txt
-
+*.txt
 
 # Compiled class file
 *.class
